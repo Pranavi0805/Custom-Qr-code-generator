@@ -22,4 +22,4 @@ Option to include quiet zone margins for better readability.
 
 Export Options
 Download your QR code in PNG format for use in print or digital media.
-![img-alt]()
+![img-alt](https://github.com/Pranavi0805/Custom-Qr-code-generator/blob/fa7d59ab5bbf5d0454c965680bb83a1c5e78f0b7/img.png)
